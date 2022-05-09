@@ -1,0 +1,15 @@
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\bin\Debug\net6.0\JoiningDataLab.exe
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\bin\Debug\net6.0\JoiningDataLab.deps.json
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\bin\Debug\net6.0\JoiningDataLab.runtimeconfig.json
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\bin\Debug\net6.0\JoiningDataLab.dll
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\bin\Debug\net6.0\JoiningDataLab.pdb
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.AssemblyInfo.cs
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.dll
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\refint\JoiningDataLab.dll
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.pdb
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.genruntimeconfig.cache
+C:\Users\Nick\source\repos\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\ref\JoiningDataLab.dll
